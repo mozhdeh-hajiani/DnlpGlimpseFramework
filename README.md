@@ -23,6 +23,14 @@ We reproduced the original GLIMPSE pipeline on the ICLR 2017 dataset and impleme
 For full implementation details, including setup, data processing, summarization generation, and evaluation:  
 ➡️ **Please see the [`Glimpse_NLP.ipynb`](./Glimpse_NLP.ipynb)** notebook.
 
+## 📁 Data and Models
+
+Due to size constraints, the full PubMed dataset and fine-tuned models are **not included** in this repository.
+
+- ✅ PubMed data subset can be downloaded from [NCBI Open Access](https://www.ncbi.nlm.nih.gov/pmc/tools/openftlist/)
+- ✅ Trained models and `.pk` candidate files are available upon request
+
+
 ---
 
 > ⚠️ This repository is a student project and is not affiliated with the original authors of GLIMPSE.
